@@ -13,7 +13,7 @@ https://youtu.be/en7griSZQ7A <br>
 4. Survey Research Paper/Deep Transfer Learning for Kidney Cancer Diagnosis:<br> 
 https://arxiv.org/abs/2408.04318 <br>
 
-https://github.com/tlavette/deepTransferLearning/blob/main/BodyMRI.jpg
+
 
 **Introduction** <br>
 
