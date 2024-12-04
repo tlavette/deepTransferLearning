@@ -1,7 +1,7 @@
 # Deep Transfer Learning for Kidney Cancer Diagnosis Study Review
 Deep transfer learning applied to kidney cancer diagnosis <br>
 <br>
-**Tonja Jean** <br> <br>
+**Tonja Jean** (Peoples) <br> <br>
 1. [Medium Article:](https://medium.com/@tonjaps3/iterative-data-processing-with-deep-transfer-learning-acaff0fd1fd4) <br>
  
 2. [Slide Deck Presentation:](https://github.com/tlavette/deepTransferLearning/blob/main/Iterative%2BData%2BProcessing%2Bwith%2BDeep%2BTransfer%2BLearning.pptx)  <br>
